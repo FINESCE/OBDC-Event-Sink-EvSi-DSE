@@ -1,1 +1,3 @@
 # OBDC-Event-Sink-EvSi-DSE
+
+Main purpose of the DSE Local Storage is keeping a local copy of all the information forwarded to the FI cloud infrastructure. This has mainly two reasons: The first stems from the current demand of manufacturing companies to have all data and information on premise, as they perceive cloud storage as potential security breach. The OBDC therefore allows for storing the gathered information locally as well. However, for the trial site, a cloud storage is preferred and will be undertaken by GEs in a later phase. The second reason is to allow for a local database for further research activities and providing the information for simulation, which will be deployed locally as well to maximize data throughput.
